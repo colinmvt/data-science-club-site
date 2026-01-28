@@ -130,11 +130,11 @@ a:hover {
 }
 
 .nav-logo {
-    font-size: 2rem;
+    font-size: 1.25rem;
     font-weight: 800;
     color: var(--sky-blue);
     letter-spacing: -1px;
-    line-height: 40px;
+    line-height: 24px;
 }
 
 .nav-links {
@@ -189,9 +189,9 @@ a:hover {
 }
 
 .nav-cph-logo img {
-    height: 40px;
+    height: 24px;
     width: auto;
-    border-radius: var(--radius-sm);
+    border-radius: 4px;
 }
 
 /* ================================
@@ -1133,12 +1133,12 @@ a:hover {
     }
 
     .nav-cph-logo img {
-        height: 32px;
+        height: 20px;
     }
 
     .nav-logo {
-        font-size: 1.5rem;
-        line-height: 32px;
+        font-size: 1.1rem;
+        line-height: 20px;
     }
 
     .title-line {
