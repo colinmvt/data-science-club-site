@@ -130,11 +130,11 @@ a:hover {
 }
 
 .nav-logo {
-    font-size: 1.25rem;
+    font-size: 3rem;
     font-weight: 800;
     color: var(--sky-blue);
     letter-spacing: -1px;
-    line-height: 24px;
+    line-height: 72px;
 }
 
 .nav-links {
@@ -1137,8 +1137,8 @@ a:hover {
     }
 
     .nav-logo {
-        font-size: 1.1rem;
-        line-height: 20px;
+        font-size: 2.5rem;
+        line-height: 60px;
     }
 
     .title-line {
