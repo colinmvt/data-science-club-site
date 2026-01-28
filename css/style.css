@@ -127,6 +127,7 @@ a:hover {
     display: flex;
     align-items: center;
     gap: var(--space-sm);
+    margin-left: -1in;
 }
 
 .nav-logo {
@@ -200,7 +201,7 @@ a:hover {
 .announcement-banner {
     background: linear-gradient(135deg, var(--cph-green) 0%, var(--cph-green-light) 100%);
     padding: var(--space-sm) var(--space-md);
-    margin-top: 60px;
+    margin-top: 110px;
     position: relative;
     z-index: 100;
 }
