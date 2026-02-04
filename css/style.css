@@ -656,6 +656,19 @@ a:hover {
     box-shadow: 0 4px 15px rgba(247, 213, 71, 0.3);
 }
 
+.leader-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid var(--white);
+    box-shadow: 0 4px 15px rgba(74, 191, 237, 0.3);
+}
+
+.leader-img.advisor-img {
+    box-shadow: 0 4px 15px rgba(247, 213, 71, 0.3);
+}
+
 .leader-name {
     font-size: 1.125rem;
     color: var(--charcoal);
